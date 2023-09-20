@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Toggle Discord Channel List",
 	"manifest_version": 3,
-	"author": "derp",
+	"author": "ghervis",
 	"action": {
     "default_title": "Hide Discord Channel List"
 	},
