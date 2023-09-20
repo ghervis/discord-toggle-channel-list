@@ -1,0 +1,14 @@
+{
+	"name": "Toggle Discord Channel List",
+	"version": "1.0.0",
+	"description": "Toggle Discord Channel List",
+	"manifest_version": 3,
+	"author": "derp",
+	"action": {
+    "default_title": "Hide Discord Channel List"
+	},
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "service-worker.js"
+  }
+}
